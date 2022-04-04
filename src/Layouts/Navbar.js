@@ -1,7 +1,6 @@
 import React from 'react';
 import { CgBmw } from 'react-icons/cg';
 import { AiOutlineHeart, AiOutlineShoppingCart } from 'react-icons/ai';
-import { IoIosSearch } from 'react-icons/io';
 
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
