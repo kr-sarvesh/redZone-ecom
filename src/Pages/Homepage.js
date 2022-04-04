@@ -1,9 +1,10 @@
 import React from 'react';
-
+import Hero from '../Hero-sec/Hero';
+import Navbar from '../Layouts/Navbar';
 const Home = () => (
-  <div className='bg-purple-500'>
-    <h1 className='text-xl'>Hello World</h1>
-    <button className='btn'>Click</button>
+  <div className='flex flex-col justify-between h-screen'>
+    <Navbar />
+    <Hero />
   </div>
 );
 export default Home;
