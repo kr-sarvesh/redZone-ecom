@@ -1,6 +1,5 @@
 {
   "name": "sportszone-ecom",
-  "homepage": "https://github.com/kr-sarvesh/sportszone-ecom/tree/homepage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
