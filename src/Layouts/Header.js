@@ -1,2 +1,7 @@
 import React from 'react';
-import { Link, withRouter } from 'React-router-dom';
+
+function Header() {
+  return <div>Header</div>;
+}
+
+export default Header;
